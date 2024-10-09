@@ -1,0 +1,6 @@
+# VSCODE
+.vscode
+
+# MAVEN
+target/
+.mvn/
