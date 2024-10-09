@@ -3,4 +3,4 @@
 
 # MAVEN
 target/
-.mvn/
+.mvn
